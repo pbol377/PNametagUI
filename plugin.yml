@@ -1,0 +1,24 @@
+name: PNameUI
+author: pbol377
+version: 1.0
+api: 
+- 4.0.0
+- 3.3.0
+- 3.2.5
+- 3.0.0
+- 3.1.0
+- 3.3.1
+- 3.3.2
+- 3.3.3
+- 3.5.0
+
+main: PNameUI\pbol377\Main
+
+commands:
+ 닉네임:
+  description: "닉네임 변경 UI를 엽니다"
+  default: true
+  
+ nt:
+  description: "Open Name Change UI"
+  default: true
