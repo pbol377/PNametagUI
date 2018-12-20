@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/pbol377/PNametagUI
+branches:
+- master
+projects:
+  PNameUI:
+    path: PNameUI/
+...
