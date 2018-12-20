@@ -1,6 +1,7 @@
 # PNametagUI
-https://poggit.pmmp.io/ci.badge/pbol377/PNametagUI/PNameUI?build=1
- 
+ [![](https://poggit.pmmp.io/shield.state/PNametagUI)](https://poggit.pmmp.io/p/PNametagUI)
+<a href="https://poggit.pmmp.io/p/PNametagUI"><img src="https://poggit.pmmp.io/shield.state/PNametagUI"></a>
+
 /nt to open ui
 
 You can change your nametag by UI
